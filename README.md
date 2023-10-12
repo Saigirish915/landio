@@ -1,10 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/landio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/landio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/landio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/4okimYBmyjc?style=social)](https://youtu.be/4okimYBmyjc)
+
 
   <br />
   <br />
@@ -38,18 +34,16 @@ To run **Landio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/landio.git
+sudo git clone https://github.com/Saigirish915/landio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/landio.git
+git clone https://github.com/Saigirish915/landio.git
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
