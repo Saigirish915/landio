@@ -11,7 +11,6 @@
 
   Landio is a fully responsive landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://Saigirish915.github.io/landio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
